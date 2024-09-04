@@ -18,7 +18,6 @@ To run **Desktop Cleaner**, ensure you have the following:
 - Python 3.x installed.
 - The following Python libraries installed:
   - `os`
-  - `shutil`
   - `time`
   - `watchdog` (for monitoring the directory)
 
